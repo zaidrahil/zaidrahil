@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Zaid Rahil 
+ **Computer Science & Engineering Student** at **MGIT**  
+ **Passionate about:** Artificial Intelligence, Web Development, and Building Smart Tools  
+ **Personal Traits:** Positive thinker, open-minded, hard-working, and continuous learner  
 
-<!--
-**zaidrahil/zaidrahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+-  **Java**
+-  **Python**
+- **JavaScript**
+
+### Tools & IDEs
+-  **VS Code**
+-  **GitHub**
+-  **NetBeans**
+
+---
+
+##  Featured Projects
+
+###  AI News Summarizer
+An intelligent application designed to scrape, analyze, and condense lengthy news articles into concise, actionable summaries using natural language processing techniques.
+
+---
+
+## Let's Connect!
+
+- **GitHub:** [@zaidrahil](https://github.com/zaidrahil)
+
+---
+*“Stay curious, stay positive, and keep building!”*
