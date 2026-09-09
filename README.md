@@ -3,7 +3,7 @@
  **Passionate about: Artificial Intelligence**, Web Development, and Building Smart Tools  
  **Personal Traits:** Positive thinker, open-minded, hard-working, and continuous learner  
 
-
+---
 
 ##  Tech Stack & Tools
 
