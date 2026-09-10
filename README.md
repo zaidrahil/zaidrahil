@@ -5,21 +5,19 @@
 
 ---
 
-##  Tech Stack & Tools
-
 ### Languages
 -  **Java**
 -  **Python**
 - **JavaScript**
 
-### Tools & IDEs
+### Tools
 -  **VS Code**
 -  **GitHub**
 -  **NetBeans**
 
 ---
 
-##  Featured Projects
+##   Projects
 
 ###  AI News Summarizer
 An intelligent application designed to scrape, analyze, and condense lengthy news articles into concise, actionable summaries using natural language processing techniques.
