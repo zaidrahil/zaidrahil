@@ -1,7 +1,7 @@
 # Hi there, I'm Zaid Rahil 
  **Computer Science & Engineering Student** at **MGIT**  
  **Passionate about: Artificial Intelligence**, Web Development, and Building Smart Tools  
- **Personal Traits:** Positive thinker, open-minded, hard-working, and continuous learner  
+ Positive thinker, open-minded, hard-working, and continuous learner  
 
 ---
 
