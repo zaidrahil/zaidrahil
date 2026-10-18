@@ -7,12 +7,14 @@ Positive thinker, open-minded, hard-working, and continuous learner.
 
 ---
 
-### Languages & Libraries
+### Languages & Frameworks
 - **Java**
 - **Python**
 - **JavaScript**
 - **C**
 - **HTML**
+
+### Skills & Libraries
 - **NumPy**
 - **Pandas**
 - **MATLAB**
@@ -32,12 +34,6 @@ An interactive learning tool designed to support cognitive growth and natural ex
 
 ### [aliengame](https://github.com/zaidrahil/aliengame)
 An interactive Python-based arcade game featuring engaging mechanics and custom logic.
-
-### [matlabbasics](https://github.com/zaidrahil/matlabbasics)
-A collection of scripts and fundamentals covering mathematical computations and data analysis in MATLAB/Jupyter.
-
-### [learningnumpy](https://github.com/zaidrahil/learningnumpy)
-Practice notebooks and code snippets exploring NumPy arrays, data manipulation, and vectorized operations.
 
 ### [ainews](https://github.com/zaidrahil/ainews)
 An intelligent application designed to scrape, analyze, and condense lengthy news articles into concise summaries using natural language processing.
